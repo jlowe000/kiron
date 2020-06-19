@@ -1,0 +1,22 @@
+Id,YEAR,COUNTRY,TOTAL,ENGLISH_LANGUAGE_PROFICIENCY,COUNT
+1,2011,Afghanistan,28598,Not well or not at all,7869
+2,2011,Afghanistan,28598,Speaks English only,577
+3,2011,Afghanistan,28598,Very well or well,18105
+4,2011,Iraq,48169,Not well or not at all,13978
+5,2011,Iraq,48169,Speaks English only,1449
+6,2011,Iraq,48169,Very well or well,31825
+7,2011,Myanmar,21760,Not well or not at all,6681
+8,2011,Myanmar,21760,Speaks English only,4151
+9,2011,Myanmar,21760,Very well or well,10637
+10,2016,Afghanistan,46800,Not well or not at all,15229
+11,2016,Afghanistan,46800,Speaks English only,1214
+12,2016,Afghanistan,46800,Very well or well,29631
+13,2016,Iraq,67355,Not well or not at all,20926
+14,2016,Iraq,67355,Speaks English only,1995
+15,2016,Iraq,67355,Very well or well,43755
+16,2016,Myanmar,32653,Not well or not at all,12303
+17,2016,Myanmar,32653,Speaks English only,4009
+18,2016,Myanmar,32653,Very well or well,16062
+19,2016,Syria,15320,Not well or not at all,5522
+20,2016,Syria,15320,Speaks English only,645
+21,2016,Syria,15320,Very well or well,9017

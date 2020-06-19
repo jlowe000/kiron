@@ -1,0 +1,87 @@
+Id,NEWS_DATE,TEXT,COUNTRY
+1,2012-01-01T00:00:00,Government signs ceasefire with rebels of Karen ethnic group.,Myanmar
+2,2012-01-01T00:00:00,Taliban agree to open office in Dubai as a move towards peace talks with the US and the Afghan government.,Afghanistan
+3,2012-02-01T00:00:00,"At least 30 people are killed in protests about the burning of copies of the Koran at the US Bagram airbase. US officials believed Taliban prisoners were using the books to pass messages, and that they were extremist texts not Korans. Two soldiers are also killed in reprisal attacks.",Afghanistan
+4,2012-02-01T00:00:00,Government steps up the bombardment of Homs and other cities.,Syria
+5,2012-03-01T00:00:00,Tight security for Arab League summit in Baghdad. It is the first major summit to be held in Iraq since the fall of Saddam Hussein. A wave of pre,Iraq
+6,2012-03-01T00:00:00,"UN Security Council endorses non-binding peace plan drafted by UN envoy Kofi Annan. China and Russia agree to support the plan after an earlier, tougher draft is modified.",Syria
+7,2012-03-01T00:00:00,US Army Sgt Robert Bales is accused of killing 16 civilians in an armed rampage in the Panjwai district of Kandahar.,Afghanistan
+8,2012-04-01T00:00:00,"NLD candidates sweep the board in parliamentary by-elections, with Aung San Suu Kyi elected. The European Union suspends all non-military sanctions against Burma for a year.",Myanmar
+9,2012-04-01T00:00:00,Taliban announce spring offensive" with audacious attack on the diplomatic quarter of Kabul. The government blamed the Haqqani Network. Security forces kill 38 militants.",Afghanistan
+10,2012-05-01T00:00:00,Manmohan Singh pays first official visit by an Indian prime minister since 1987.,Myanmar
+11,2012-05-01T00:00:00,Nato summit endorses the plan to withdraw foreign combat troops by the end of 2014.,Afghanistan
+12,2012-06-01T00:00:00,"Turkey changes rules of engagement after Syria shoots down a Turkish plane, declaring that if Syrian troops approach Turkey's borders they will be seen as a military threat.",Syria
+13,2012-07-01T00:00:00,Free Syria Army blows up three security chiefs in Damascus and seizes parts of the city of Aleppo in the north.,Syria
+14,2012-07-01T00:00:00,"Tokyo donor conference pledges $16bn in civilian aid to Afghanistan up to 2016, with US, Japan, Germany and UK supplying bulk of funds. Afghanistan agrees to new conditions to counter corruption.",Afghanistan
+15,2012-08-01T00:00:00,"President Thein Sein sets up commission to investigate violence between Rakhine Buddhists and Rohingya Muslims in the west, in which dozens have died.",Myanmar
+16,2012-08-01T00:00:00,"Prime Minister Riad Hijab defects, US President Obama warns that use of chemical weapons would tilt the US towards intervention.",Syria
+17,2012-08-01T00:00:00,The US military discipline six soldiers for accidentally burning copies of the Koran and other religious texts in Afghanistan. They will not face criminal prosecution. Three US Marines are also disciplined for a video in which the bodies of dead Taliban fighters were urinated on.,Afghanistan
+18,2012-09-01T00:00:00,"Moe Thee Zun, the leader of student protests in 1988, returns from exile after Burma removed 2,082 people from its blacklist.",Myanmar
+19,2012-09-01T00:00:00,"US hands over Bagram high-security jail to the Afghan government, although it retains control over some foreign prisoners until March 2013.",Afghanistan
+20,2012-10-01T00:00:00,Fire in Aleppo destroys much of the historic market as fighting and bomb attacks continue in various cities.,Syria
+21,2012-11-01T00:00:00,Iraq cancels a $4.2bn deal to buy arms from Russia because of concerns about alleged corruption within the Iraqi government.,Iraq
+22,2012-11-01T00:00:00,"National Coalition for Syrian Revolutionary and Opposition Forces formed in Qatar, excludes Islamist militias. Arab League stops short of full recognition.",Syria
+23,2012-11-01T00:00:00,Visiting European Commission chief Jose Manuel Barroso offers Myanmar more than $100m in development aid.,Myanmar
+24,2012-12-01T00:00:00,"US, Britain, France, Turkey and Gulf states formally recognise opposition National Coalition as legitimate representative" of Syrian people."",Syria
+25,2013-01-01T00:00:00,"Syria accuses Israel of bombing military base near Damascus, where Hezbollah was suspected of assembling a convoy of anti-aircraft missiles bound for Lebanon.",Syria
+26,2013-01-01T00:00:00,"The army surrounds Laiza, the biggest town controlled by Kachin rebels. The government and rebels agree to disengage and start a political dialogue after Chinese-sponsored talks.",Myanmar
+27,2013-02-01T00:00:00,President Karzai and Pakistan's Asif Ali Zardari agree to work for an Afghan peace deal within six months after talks hosted by Britain's Prime Minister David Cameron. They back the opening of an Afghan office in Doha and urge the Taliban to do the same for talks to take place.,Afghanistan
+28,2013-03-01T00:00:00,"Rioting between Muslims and Buddhists in Meiktila, south of Mandalay, leaves at least 10 people dead.",Myanmar
+29,2013-03-01T00:00:00,"Two former Kabul Bank chiefs, Sherkhan Farnood and Khalilullah Ferozi, are jailed for the multi-million dollar fraud that almost led to its collapse and that of the entire Afghan banking system in 2010.",Afghanistan
+30,2013-04-01T00:00:00,Four private daily newspapers appear for the first time in almost 50 years as the state monopoly ends.,Myanmar
+31,2013-04-01T00:00:00,"Sunni insurgency intensifies, with levels of violence matching those of 2008. By Jul the country is described as being yet again in a state of full",Iraq
+32,2013-05-01T00:00:00,"President Thein Sein visits Washington. President Obama praises Myanmar's political and economic progress, but criticises violence against Rohingya Muslims.",Myanmar
+33,2013-06-01T00:00:00,Afghan army takes command of all military and security operations from Nato forces.,Afghanistan
+34,2013-09-01T00:00:00,Series of bombings hits Kurdistan capital Irbil in the first such attack since 2007. The Islamic State of Iraq group says it was responding to alleged Iraqi Kurdish support for Kurds fighting jihadists in Syria.,Iraq
+35,2013-09-01T00:00:00,"UN weapons inspectors conclude that chemical weapons were used in an attack on the Ghouta area of Damascus in August that killed about 300 people, but do not allocate responsibility. Government allows UN to destroy chemical weapons stocks, process complete by June 2014.",Syria
+36,2013-10-01T00:00:00,"Government says October is deadliest month since April 2008, with 900 killed. By the year",Iraq
+37,2013-12-01T00:00:00,US and Britain suspend non-lethal" support for rebels in northern Syria after reports that Islamist rebels seized bases of Western-backed Free Syrian Army.",Syria
+38,2014-01-01T00:00:00,Islamist fighters infiltrate Falluja and Ramadi after months of mounting violence in mainly,Iraq
+39,2014-01-01T00:00:00,"Taliban suicide squad hits a restaurant in Kabul's diplomatic quarter, the worst attack on foreign civilians since 2001. The 13 foreign victims include IMF country head.",Afghanistan
+40,2014-01-01T00:00:00,"UN-brokered peace talks in Geneva fail, largely because Syrian authorities refuse to discuss a transitional government.",Syria
+41,2014-03-01T00:00:00,"Syrian Army and Hezbollah forces recapture Yabroud, the last rebel stronghold near the Lebanese border.",Syria
+42,2014-04-01T00:00:00,At least 22 people are killed in fighting between government troops and ethnic Kachin rebels in the north.,Myanmar
+43,2014-04-01T00:00:00,Prime Minister Al,Iraq
+44,2014-04-01T00:00:00,The presidential election produces an inconclusive result and goes on to a second round between Abdullah Abdullah and Ashraf Ghani.,Afghanistan
+45,2014-05-01T00:00:00,"US extends some sanctions for another year, saying that despite the recent reforms, rights abuses and army influence on politics and the economy persist.",Myanmar
+46,2014-06-01T00:00:00,Islamic State of Iraq and Syria militants declare caliphate" in territory from Aleppo to eastern Iraqi province of Diyala.",Syria
+47,2014-06-01T00:00:00,"Second round of presidential election is held, with more than 50 reported killed in various incidents during the vote.",Afghanistan
+48,2014-06-01T00:00:00,"Sunni rebels led by Islamic State of Iraq and the Levant surge out of Anbar Province to seize Iraq's second city of Mosul and other key towns. Tens of thousands flee amid atrocities. Kurdish forces, US and Iran assist government in repelling attacks.",Iraq
+49,2014-07-01T00:00:00,"Election officials begin recount of all votes cast in June's presidential run-off, as part of a US-mediated deal to end dispute between candidates over widespread claims of fraud.",Afghanistan
+50,2014-09-01T00:00:00,Shia politician Haider al,Iraq
+51,2014-09-01T00:00:00,"The two rivals for the Afghan presidency, Ashraf Ghani and Abdullah Abdullah, sign a power-sharing agreement, following a two-month audit of disputed election results. Ashraf Ghani is sworn in as president.",Afghanistan
+52,2014-09-01T00:00:00,US and five Arab countries launch air strikes against Islamic State around Aleppo and Raqqa.,Syria
+53,2014-10-01T00:00:00,Parliamentary elections set for October/November 2015.,Myanmar
+54,2014-10-01T00:00:00,The US and Britain end their combat operations in Afghanistan.,Afghanistan
+55,2014-12-01T00:00:00,"NATO formally ends its 13-year combat mission in Afghanistan, handing over to Afghan forces. Despite the official end to Isaf's combat role, violence persists across much of the country, with 2014 said to be the bloodiest year in Afghanistan since 2001.",Afghanistan
+56,2014-12-01T00:00:00,"The Iraqi government and the leadership of the Kurdish Region sign a deal on sharing Iraq's oil wealth and military resources, amid hopes that the agreement will help to reunite the country in the face of the common threat represented by Islamic State.",Iraq
+57,2015-01-01T00:00:00,Kurdish forces push Islamic State out of Kobane on Turkish border after four months of fighting.,Syria
+58,2015-01-01T00:00:00,"NATO-led follow-on mission Resolute Support"" gets underway ""with some 12,000 personnel to provide further training and support for Afghan security forces.""",Afghanistan
+59,2015-02-01T00:00:00,Flare-up in fighting with Kokang separatists in Shan State near the border with China leaves nearly 50 soldiers dead. Government puts Kokang region under temporary martial law.,Myanmar
+60,2015-03-01T00:00:00,A draft ceasefire agreement is signed between the government and 16 rebel groups.,Myanmar
+61,2015-03-01T00:00:00,Islamic State destroys Assyrian archaeological sites of Nimrud and Hatra.,Iraq
+62,2015-03-01T00:00:00,"US President Barack Obama announces that his country will delay its troop withdrawal from Afghanistan, following a request from President Ashraf Ghani.",Afghanistan
+63,2015-05-01T00:00:00,"Hundreds of Muslim Rohingyas migrants leave by sea in flimsy boats, along with migrants from Bangladesh. UN criticizes failure of south-east Asian states to rescue them.",Myanmar
+64,2015-05-01T00:00:00,Islamic State fighters seize the ancient city of Palmyra in central Syria and proceed to destroy many monuments at pre-Islamic World Heritage site.,Syria
+65,2015-05-01T00:00:00,"Taliban representatives and Afghan officials hold informal peace talks in Qatar. Both sides agree to continue the talks at a later date, though the Taliban insist they will not stop fighting until all foreign troops leave the country.",Afghanistan
+66,2015-07-01T00:00:00,"Floods affect much of low-lying parts of country, killing 100 people and displacing a million others.",Myanmar
+67,2015-07-01T00:00:00,"Taliban admits that reclusive founder, Mullah Omar, died a few years ago, and appoints Mullah Akhter Mansour as his replacement.",Afghanistan
+68,2015-09-01T00:00:00,"Russia carries out its first air strikes in Syria, saying they target the Islamic State group, but the West and Syrian opposition say it overwhelmingly targets anti-Assad rebels.",Syria
+69,2015-09-01T00:00:00,Taliban briefly capture major northern city of Kunduz in their most significant advance since being forced from power in 2001.,Afghanistan
+70,2015-10-01T00:00:00,Powerful earthquake kills more than 80 people in northeast of country.,Afghanistan
+71,2015-10-01T00:00:00,"US President Barack Obama announces that 9,800 US troops will remain in Afghanistan until the end of 2016, backtracking on an earlier pledge to pull all but 1,000 troops from the country.",Afghanistan
+72,2015-11-01T00:00:00,"A new Taliban splinter group, headed by Mullah Rasool, announces its presence in southern Afghanistan. However, the group is totally crushed by the mainstream Taliban by spring 2016.",Afghanistan
+73,2015-11-01T00:00:00,Opposition National League for Democracy - led by Aung San Suu Kyi - wins enough seats in parliamentary elections to form a government.,Myanmar
+74,2015-12-01T00:00:00,NATO extends its Resolute Support "follow-on mission by 12 months to the end of 2016.",Afghanistan
+75,2015-12-01T00:00:00,"Syrian Army allows rebels to evacuate remaining area of Homs, returning Syria's third-largest city to government control after four years.",Syria
+76,2015-12-01T00:00:00,"Taliban make bid to capture Sangin, a town and district in Helmand Province. US warplanes deploy in support of Afghan security forces' attempt to repel insurgents.",Afghanistan
+77,2016-03-01T00:00:00,"Htin Kyaw sworn in as president, ushering in a new era as Aung San Suu Kyi's democracy movement takes power after 50 years of military domination.",Myanmar
+78,2016-03-01T00:00:00,"Syrian government forces retake Palmyra from Islamic State with Russian air assistance, only to be driven out again in December.",Syria
+79,2016-04-01T00:00:00,Supporters of cleric Moqtada al,Iraq
+80,2016-05-01T00:00:00,New Taliban leader Mullah Mansour is killed in a US drone attack in Pakistan's Baluchestan province.,Afghanistan
+81,2016-07-01T00:00:00,"US President Barack Obama says 8,400 US troops will remain in Afghanistan into 2017 in light of the precarious security situation". NATO also agrees to maintain troop numbers and reiterates a funding pledge for local security forces until 2020."",Afghanistan
+82,2016-08-01T00:00:00,"Taliban advance to the outskirts of Lashkar Gah, the capital of Helmand, and to the northern city of Kunduz. The group has brought much of the two provinces under its control since the bulk of NATO forces withdrew by end of 2014.",Afghanistan
+83,2016-08-01T00:00:00,Turkish troops cross into Syria to help rebel groups push back so-called Islamic State militants and Kurdish-led rebels from a section of the two countries' border.,Syria
+84,2016-09-01T00:00:00,"The Afghan government signs a peace agreement with the militant group Hezb-e-Islami and grants immunity to the group's leader, Gulbuddin Hekmatyar.",Afghanistan
+85,2016-11-01T00:00:00,Parliament recognises the Shia Popular Mobilisation Units (PMU) militia as part of the armed forces with full legal status.,Iraq
+86,2016-12-01T00:00:00,"Government troops, backed by Russian air power and Iranian-sponsored militias, recapture Aleppo, the country's largest city, depriving the rebels of their last major urban stronghold.",Syria

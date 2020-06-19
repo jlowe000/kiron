@@ -1,0 +1,16 @@
+Id,YEAR,PROGRAM,COUNT
+1,2012,Onshore Protection Component,7507
+2,2012,Refugee,11976
+3,2012,Special Humanitarian Program,503
+4,2013,Onshore Protection Component,2752
+5,2013,Refugee,6484
+6,2013,Special Humanitarian Program,4500
+7,2014,Onshore Protection Component,2750
+8,2014,Refugee,5985
+9,2014,Special Humanitarian Program,4996
+10,2015,Onshore Protection Component,2003
+11,2015,Refugee,8267
+12,2015,Special Humanitarian Program,7270
+13,2016,Onshore Protection Component,1711
+14,2016,Refugee,9653
+15,2016,Special Humanitarian Program,10604
