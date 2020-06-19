@@ -958,7 +958,7 @@ wwv_flow_api.create_page_plug(
 ,p_plug_template=>wwv_flow_api.id(1550860254544899230)
 ,p_plug_display_sequence=>50
 ,p_plug_display_point=>'BODY'
-,p_plug_source=>'<div align=''center''>This information is from the QLD Department of Community, Child Safety and Disability</div><br/>'
+,p_plug_source=>'<div align=''center''>This information is from the QLD Department of Health, Child Safety and Disability</div><br/>'
 ,p_plug_query_options=>'DERIVED_REPORT_COLUMNS'
 ,p_attribute_01=>'N'
 ,p_attribute_02=>'HTML'
